@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Konay812020
+- 👋 Hi, I’m Nay Oo Lwin.
 - 👀 I’m interested in full-stack web developer.
 - 🌱 I’m currently learning laravel
 - 💞️ I’m looking to collaborate on huge company
