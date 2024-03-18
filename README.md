@@ -3,10 +3,12 @@
 <h1 align="center"> 👋 Hi, I’m Nay Oo Lwin.</h1>
 
 <h3 align="center">A passionate Developer from Myanmar</h3>
+<h3 align="center">FULL-STACK DEVELOPER</h3>
 
 
 
-- 🌱 I’m currently learning **REACT and NODE.JS **
+
+- 🌱 I’m currently learning ** NextJs and ReactNative**
 
 - 💬 Ask me about **Frontent ,Backend , DataBase , Sever ,Android  **
 - 
